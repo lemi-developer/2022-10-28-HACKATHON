@@ -1,0 +1,7 @@
+
+
+Hello Lemule this is your Hackaton feedback.
+
+COngratulations on your projects it was well done. It have a good implemetation of form object and DOM manipulation
+I will recomend to empty the form after been submitted. The style is ok but you can work a little more on it.
+Good job.
